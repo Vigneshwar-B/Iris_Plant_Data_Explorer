@@ -9,7 +9,7 @@ import plotly.figure_factory as ff
 import time
 
 # Set the title and a relevant data science image
-st.title("Data Science App")
+st.title("Iris Plant Data Explorer")
 image_url = 'https://images.unsplash.com/photo-1517841905240-472988d191e4'  # Example data science image
 st.image(image_url, use_column_width=True)
 
